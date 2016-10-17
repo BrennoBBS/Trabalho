@@ -115,7 +115,7 @@ public class Main {
 				//if (contaVoltas>5){
 				//	break;
 				//}
-
+				//teste
 			}
 			entrada.close();
 			subscanner1.close();
